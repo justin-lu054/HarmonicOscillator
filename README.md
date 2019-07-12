@@ -1,3 +1,5 @@
+Added all relevant features
+
 # HarmonicOscillator
 Harmonic oscillator simulator with the ability to save and load configurations
 
