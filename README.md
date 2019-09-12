@@ -3,8 +3,8 @@ Added all relevant features
 # HarmonicOscillator
 A simple harmonic oscillator simulator that can calculate and display properties of common oscillating systems.
 This simulator supports the following oscillating systems: 
-Block-Spring System
-Regular Pendulum
+Block-Spring System\n
+Regular Pendulum\n
 Physical Pendulum 3
 
 # Instructions
