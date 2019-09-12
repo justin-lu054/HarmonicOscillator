@@ -1,8 +1,18 @@
 Added all relevant features
 
 # HarmonicOscillator
-Harmonic oscillator simulator with the ability to save and load configurations
+A simple harmonic oscillator simulator that can calculate and display properties of common oscillating systems.
+This simulator supports the following oscillating systems: 
+Block-Spring System
+Regular Pendulum
+Physical Pendulum 3
 
+# Instructions
+To configure an oscillator system, select option 1 from the menu, select the type of oscillator, and enter the measurements.
+To view specific information, select option 2 from the menu, and select the configured oscillator you wish to view. 
+To save/load, simply select the option on the menu to do so, and enter a file name. All files are stored as .csv's 
+
+# Classes
 ## Oscillator
 Parent class with abstract methods present
 
