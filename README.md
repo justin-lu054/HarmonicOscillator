@@ -6,10 +6,10 @@ This simulator supports the following oscillating systems:
 
 Block-Spring System  
 ![Blockspring](https://i.imgur.com/FVq620j.png)  
-Regular Pendulum  
-Physical Pendulum   
-
-Diagrams can be found in the wiki. 
+Standard Pendulum  
+![Pendulum](https://i.imgur.com/NEgyLOL.png)  
+Physical Pendulum  
+![PhysicalPendulum](https://i.imgur.com/BJJJbvM.png)  
 
 # Instructions
 To configure an oscillator system, select option 1 from the menu, select the type of oscillator, and enter the measurements.
