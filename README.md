@@ -5,8 +5,11 @@ A simple harmonic oscillator simulator that can calculate and display properties
 This simulator supports the following oscillating systems: 
 
 Block-Spring System  
+![Blockspring](https://i.imgur.com/FVq620j.png)  
 Regular Pendulum  
 Physical Pendulum   
+
+Diagrams can be found in the wiki. 
 
 # Instructions
 To configure an oscillator system, select option 1 from the menu, select the type of oscillator, and enter the measurements.
