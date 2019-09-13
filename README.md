@@ -4,11 +4,11 @@ Added all relevant features
 A simple harmonic oscillator simulator that can calculate and display properties of common oscillating systems.
 This simulator supports the following oscillating systems: 
 
-Block-Spring System  
+**Block-Spring System**    
 ![Blockspring](https://i.imgur.com/FVq620j.png)  
-Standard Pendulum  
-![Pendulum](https://i.imgur.com/NEgyLOL.png)  
-Physical Pendulum  
+**Standard Pendulum**    
+![Pendulum](https://i.imgur.com/MLfB6mV.png) 
+**Physical Pendulum**    
 ![PhysicalPendulum](https://i.imgur.com/BJJJbvM.png)  
 
 # Instructions
