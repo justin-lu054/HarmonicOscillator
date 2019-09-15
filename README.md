@@ -1,4 +1,3 @@
-Added all relevant features
 
 # HarmonicOscillator
 A simple harmonic oscillator simulator that can calculate and display properties of common oscillating systems.
@@ -34,3 +33,6 @@ Class responsible for saving and loading user inputted configurations
 
 ## Menu
 Class responsible for displaying the menu and handling all input verification
+
+# Calculations
+All of the mathematical calculations involved in the program can be found in Appendix.pdf
